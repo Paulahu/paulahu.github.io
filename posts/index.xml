@@ -6,17 +6,26 @@
     <description>Recent content in Posts on Paula&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Feb 2020 11:47:15 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2020 13:53:57 +0800</lastBuildDate>
     
 	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>第二篇博客</title>
+      <link>http://example.org/2020/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Fri, 28 Feb 2020 13:53:57 +0800</pubDate>
+      
+      <guid>http://example.org/2020/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>这是我的第二篇博客</description>
+    </item>
+    
+    <item>
       <title>开博大吉</title>
-      <link>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
+      <link>http://example.org/2020/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
       <pubDate>Fri, 28 Feb 2020 11:47:15 +0800</pubDate>
       
-      <guid>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
+      <guid>http://example.org/2020/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
       <description>大家好 这是我的博客，希望能写一些好的文章分享给大家~~~</description>
     </item>
     
